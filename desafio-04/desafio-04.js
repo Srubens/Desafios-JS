@@ -1,4 +1,4 @@
-Desafio da semana #4
+// Desafio da semana #4
 /*
 Declare uma variável chamada `isTruthy`, e atribua a ela uma função que recebe
 um único parâmetro como argumento. Essa função deve retornar `true` se o
